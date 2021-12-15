@@ -1,0 +1,123 @@
+
+body{
+height: 2000px;	
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar{
+
+	background: linear-gradient(to right, rgb(78, 77, 77), white);
+}
+.nav-link{
+	margin-left: 20px;
+	transition: .2s;
+
+}
+.nav-link:hover{
+	background-color: white;
+	border-radius: 10px;
+	
+}
+.nav-link{
+	font-family: sans-serif;
+	font-weight: bold;
+	color: black;
+}
+.navbar-brand{
+	font-size: 25px;
+	color: rgb(206, 178, 24);
+	font-weight: bold;
+	font-family:'Times New Roman', Times, serif;
+
+}
+.main h1{
+	text-align: center;
+	margin-top: 60px;
+}
+ .hr1{
+ height: 5px;
+ width: 50%;
+background-color: crimson;
+margin: auto;
+margin-top: 20px;
+}
+.hr2{
+	height: 5px;
+	width: 30%;
+   background-color: rgb(219, 161, 173);
+   margin: auto;
+   margin-top: 20px;
+   }
+   .hr3{
+	height: 5px;
+	width: 10%;
+   background-color: rgb(44, 40, 41);
+   margin: auto;
+   margin-top: 20px;
+   margin-bottom: 50px;
+   }
+   .img1{
+	   margin-top: 40px;
+	   width: 250px;
+   }
+  
+   .main {
+	   overflow: auto;
+background-color: rgb(158, 142, 145);   
+margin-top: -50px;
+padding-bottom: 20px;
+}
+.ahmad{
+	text-align: center;
+	margin-top: 20px;
+}
+.gall{
+	text-align: center;
+}
+.gallary{
+	margin-bottom: 20px;
+}
+   .btn{
+	   background-color: rgb(103, 103, 156);
+	   color: rgb(255, 255, 255);
+	   font-weight: bold;
+	   margin: 10px;
+   }
+   .bt{
+	   background-color: rgb(98, 95, 102);
+	   
+	   text-align: center;
+	   align-items: center;
+	   margin: 10px;
+	   border-radius: 10px;
+	   
+   }
+   .mapimg img{
+	   height: 300px;
+   }
+  
+   .contact{
+	   background-color: crimson;
+	   padding-bottom: 20px;
+   }
+   .face  img{
+	   width: 30px;
+	   background-color: darkgray;
+	   border-radius: 50%;
+	   padding: 5px;
+   }
+   .ins img {
+	   width: 30px;
+	   background-color: darkgray;
+	   border-radius: 50%;
+	   padding: 5px;
+	   margin-left: 10px;
+   }
+   .sol{
+	   display: flex;
+
+   }
+   
+   
